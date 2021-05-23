@@ -68,4 +68,3 @@ var loadReCaptcha = function (siteKey) {
     script.src = "https://www.recaptcha.net/recaptcha/api.js?render=" + siteKey;
     document.body.appendChild(script);
 };
-//# sourceMappingURL=index.js.map
